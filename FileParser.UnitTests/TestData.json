@@ -1,0 +1,17 @@
+﻿{
+
+  "Data": [
+    {
+      "ISIN": "DE000ABCDEFG",
+      "CFICode": "FFICSX",
+      "Venue": "XEUR",
+      "ContractSize": "20"
+    },
+    {
+      "ISIN": "PL0ABCDEFGHI",
+      "CFICode": "FFICSX",
+      "Venue": "WDER",
+      "ContractSize": "25"
+    }
+  ]
+}

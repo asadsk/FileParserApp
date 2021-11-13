@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FileParser": {
+      "commandName": "Project",
+      "commandLineArgs": "\"F:\\TestApp\" \"DataExtractor_Example_Input\" \"csv\" \"F:\\TestAppOutput\" \"OutputFile.csv\""
+    }
+  }
+}
