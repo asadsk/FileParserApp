@@ -1,12 +1,12 @@
 # FileParserApp
 
 ## Description
-  This is a simple console app which accepts the following arguments as input
-    1. Input Folder Path
-    2. Input File Name
-    3. Input File Extension
-    4. Output Folder Path
-    5. Output File Name
+This is a simple console app which accepts the following arguments as input
+1. Input Folder Path
+2. Input File Name
+3. Input File Extension
+4. Output Folder Path
+5. Output File Name
     
 ## How to use?
   1. Clone the application
